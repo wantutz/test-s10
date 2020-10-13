@@ -2,5 +2,5 @@
 FROM alpine:latest
 MAINTAINER Juan Abulencia <juan.abulencia@gmail.com>
 
-CMD echo "Hello World! Hello Midsayap."
+CMD echo "Hello World! Hello Midsayap ug Libungan."
 
